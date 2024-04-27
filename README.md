@@ -8,7 +8,7 @@
 const me = {
   pronouns: "he" | "him" | "Male",
   Loves: ["My cat", "Pizza", "Coffe", "Games", "Burger's"],
-  Hobbys: ["Listen to music", "Watching series", "Read"],
+  Hobbies: ["Listen to music", "Watching series", "Read"],
   Career: ["Ing. Desarrollo y Gestión de Software","T.S.U Tecnologías de la Información Área en Desarrollo de Software Multiplataforma"],
   Education:  {
                 university: "Universidad Tecnológica de Tlaxcala",
