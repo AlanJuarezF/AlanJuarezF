@@ -19,9 +19,7 @@ const me = {
 }
 ```
 ### social networks
-
-[![Instagram](https://img.shields.io/badge/-Instagram-563D7C?style=flat&logo=instagram&link=https://https://instagram.com/alaan_wlf/)](https://instagram.com/alaan_wlf/)
-[![Facebook](https://img.shields.io/badge/-Facebook-0000FF?style=flat&logo=facebook&link=https://https://facebook.com/alan.juarezfragoso/)](https://facebook.com/alan.juarezfragoso/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alanjuarezf/)](https://www.linkedin.com/in/alanjuarezf/)
 
 <br />
 <br />
