@@ -6,17 +6,17 @@
 
 ```javascript
 const me = {
-  pronouns: "he" | "him" | "Male",
-  Loves: ["My cat", "Pizza", "Coffe", "Games", "Burger's"],
-  Hobbies: ["Listen to music", "Watching series", "Read"],
-  Career: [
-            "Ing. Desarrollo y Gestión de Software",
-            "T.S.U Tecnologías de la Información Área en Desarrollo de Software Multiplataforma"
-          ],
-  Education:  {
-                university: "Universidad Tecnológica de Tlaxcala",
-              }
-}
+  pronouns: ["he", "him", "male"],
+  loves: ["my cat", "pizza", "coffee", "games", "burgers"],
+  hobbies: ["listening to music", "watching series", "reading"],
+  career: [
+    "B.S. in Software Development and Management",
+    "A.S. in Information Technologies with a focus on Multiplatform Software Development"
+  ],
+  education: {
+    university: "Universidad Tecnológica de Tlaxcala"
+  }
+};
 ```
 ### social networks
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alanjuarezf/)](https://www.linkedin.com/in/alanjuarezf/)
